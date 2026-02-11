@@ -1,2 +1,0 @@
-# CardClashContent
-CardClash Downloadables
